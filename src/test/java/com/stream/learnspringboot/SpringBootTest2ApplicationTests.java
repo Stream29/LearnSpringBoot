@@ -1,4 +1,4 @@
-package com.stream.springboottest2;
+package com.stream.learnspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

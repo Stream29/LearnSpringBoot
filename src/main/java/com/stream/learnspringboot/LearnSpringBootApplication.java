@@ -1,15 +1,15 @@
-package com.stream.springboottest2;
+package com.stream.learnspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootTest2Application
+public class LearnSpringBootApplication
 {
 
     public static void main(String[] args)
     {
-        SpringApplication.run(SpringBootTest2Application.class, args);
+        SpringApplication.run(LearnSpringBootApplication.class, args);
     }
 
 }

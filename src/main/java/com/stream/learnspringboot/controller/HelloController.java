@@ -1,4 +1,4 @@
-package com.stream.springboottest2;
+package com.stream.learnspringboot.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
